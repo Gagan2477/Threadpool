@@ -95,5 +95,5 @@ g++ -std=c++17 -pthread threadpool.cpp main.cpp -o threadpool
 * Designed for clarity and correctness rather than advanced scheduling optimizations
 
 ## Author
-Mohit Gunani
+Gagan
 IIT BHU
